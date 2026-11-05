@@ -1,0 +1,24 @@
+{
+  "name": "@igor-guari/pi-skill-domain-modeling",
+  "version": "1.0.0",
+  "description": "Build and sharpen a project's domain model. Use when discussing codebase terminology, writing or editing a GLOSSARY.md, ",
+  "keywords": [
+    "pi-package",
+    "pi-skill",
+    "pi",
+    "domain-modeling",
+    "engineering-skills"
+  ],
+  "author": "Igor Guariroba",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorGuariroba/pi-skill-domain-modeling.git"
+  },
+  "homepage": "https://github.com/IgorGuariroba/pi-skill-domain-modeling#readme",
+  "pi": {
+    "skills": [
+      "."
+    ]
+  }
+}
